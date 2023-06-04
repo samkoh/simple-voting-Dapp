@@ -106,3 +106,5 @@ export const contractABI = [
         "type": "function"
     }
 ];
+
+export default Engine;
